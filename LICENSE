@@ -1,12 +1,12 @@
 Dual License Agreement for Thinker Model (Free for Non-Commercial Use + Commercial Use Requires Authorization)
 
-This Agreement (hereinafter referred to as the "Agreement") is formulated by the copyright owner of the fine-tuned model (hereinafter referred to as the "Model") [Your Name/Organization Name] (hereinafter referred to as the "Licensor"), and shall apply to all individuals or organizations that obtain and use the Model (hereinafter referred to as the "Licensee").
+This Agreement (hereinafter referred to as the "Agreement") is formulated by the copyright owner of the Thinker model (hereinafter referred to as the "Model") [UBTECH Robotics] (hereinafter referred to as the "Licensor"), and shall apply to all individuals or organizations that obtain and use the Model (hereinafter referred to as the "Licensee").
 
 Core Statement: The Model is fine-tuned based on the Qwen3 base weights (copyright owned by the Qwen Team), and the Qwen3 base weights are subject to the Apache License 2.0. As a derivative work, the Model adopts a "Dual License" mechanism, meaning it may be freely used for non-commercial purposes, while commercial use requires separate permission from the Licensor. At the same time, the core obligations and attribution requirements of the Apache License 2.0 must be complied with throughout.
 
 I. Source of Base Weights and Obligations under the Original Agreement
 
-1. The base weights of the Model are derived from the Qwen3 model (official repository: https://github.com/QwenLM/Qwen). The copyright of the Qwen3 base weights is owned by the Qwen Team and is subject to the Apache License 2.0 (see Appendix 1 of this Agreement for the complete text).
+1. The base weights of the Model are derived from the Qwen3 model (official repository: https://github.com/QwenLM/Qwen3). The copyright of the Qwen3 base weights is owned by the Qwen Team and is subject to the Apache License 2.0 (see Appendix 1 of this Agreement for the complete text).
 
 2. When using the Model, the Licensee must fully comply with the core obligations of the Apache License 2.0, including but not limited to:
 
@@ -75,7 +75,7 @@ IV. Other Core Restrictions
 
 3. The Licensor makes no express or implied warranties regarding the applicability, accuracy, or safety of the Model. The Licensor shall not be liable for any direct or indirect losses incurred by the Licensee due to the use of the Model.
 
-4. The conclusion, performance, interpretation, and dispute resolution of this Agreement shall all be governed by the laws of the People's Republic of China (for overseas organizations/individuals as Licensees, the governing law agreed by both parties shall apply). Any dispute arising from this Agreement shall first be resolved through friendly negotiation between both parties; if negotiation fails, it shall be submitted to the people's court with jurisdiction in [Your Location] for litigation.
+4. The conclusion, performance, interpretation, and dispute resolution of this Agreement shall all be governed by the laws of the People's Republic of China (for overseas organizations/individuals as Licensees, the governing law agreed by both parties shall apply). Any dispute arising from this Agreement shall first be resolved through friendly negotiation between both parties; if negotiation fails, it shall be submitted to the people's court with jurisdiction for litigation.
 
 V. Effectiveness and Modification of the Agreement
 
@@ -89,11 +89,9 @@ Appendix 1: Complete Text of the Apache License 2.0
 
 Licensor Information
 
-Copyright Owner (Licensor): [Your Name/Organization Name]
+Copyright Owner (Licensor): UBTECH Robotics
 
-Contact Address (Optional): [Your Contact Address]
+Contact Address (Optional): developer@ubtrobot.com
 
-Commercial Authorization Application Email: [Your Commercial Authorization Application Email]
-
-Agreement Posting Date: [YYYY-MM-DD]
+Agreement Posting Date: 2025-12-30
 
