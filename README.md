@@ -25,16 +25,16 @@ Leveraging these capabilities, Thinker sets new records across 7 embodied AI ben
 
 <!--Thinker exhibits advanced capabilities in spatial perception, long-horizon video comprehension, and temporal reasoning.-->
 
-<!--  
-<div align="center">
-<img src="./assets/Motivation.webp" width="900"/>
+
+<div align="center" style='display: flex; flex-direction: row'>
+<img src="./assets/train_data.jpg" style="width: 42%;"/>
+<img src="./assets/demo.gif" style="width: 100%"/>
 </div>
 
 
 <div align="center">
-<img src="./assets/TaskIntroduction.webp" width="900"/>
 </div>
--->
+
 
 ---
 ## Update
