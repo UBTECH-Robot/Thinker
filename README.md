@@ -31,6 +31,10 @@ Leveraging these capabilities, Thinker sets new records across 7 embodied AI ben
 <img src="./assets/demo.gif" style="width: 61%"/>
 </div>
 
+<div align="center" style="display: flex; justify-content: center; align-items: center; width: 100%; height: 100vh;">
+    <img src="./assets/train_data.jpg" style="width: 31%; margin-right: 2%;" />
+    <img src="./assets/demo.gif" style="width: 61%;" />
+</div>
 
 
 ---
