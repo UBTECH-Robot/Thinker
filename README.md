@@ -32,9 +32,6 @@ Leveraging these capabilities, Thinker sets new records across 7 embodied AI ben
 </div>
 
 
-<div align="center">
-</div>
-
 
 ---
 ## Update
