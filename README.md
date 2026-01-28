@@ -128,13 +128,7 @@ More evaluation results and scripts will be added soon.
 <img src="./assets/10b2.jpg" width="1000"/>
 </div>
 
-## License Agreement
 
-Thinker is licensed under Apache 2.0.
-
-## Citation
-
-We kindly encourage citation of our work if you find it useful.
 
 ```
 
