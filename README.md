@@ -1,11 +1,13 @@
 <div align='center'><h1>Thinker: A vision-language foundation model for embodied intelligence</h1></div>
 
-<!--  
-[[🤗 Datasets](https://huggingface.co/...)] 
-<font size=4><div align='center'>[[🔗 Released Code](https://github.com/UBTECH-Robot/Thinker)]
- [[🤗 Checkpoints](<font size=4><div align='center'>[[🔗 Released Code](https://github.com/UBTECH-Robot/Thinker)]]</div></font>
- <font size=4><div align='center'>[[📄 Tech Report](https://arxiv.org/abs/2510.01954)]</div></font>
--->
+<!-- [[🤗 Datasets](https://huggingface.co/...)] -->
+<p style="text-align: center; font-size: 16px; margin: 8px 0;">
+  [[🔗 Released Code](https://github.com/UBTECH-Robot/Thinker)] &nbsp;&nbsp;
+  [[🤗 Checkpoints](https://huggingface.co/UBTECH-Robotics/Thinker-4B)]
+</p>
+<p style="text-align: center; font-size: 16px; margin: 8px 0;">
+  [[📄 Tech Report](https://arxiv.org/abs/2510.01954)]
+</p>
 
 <font size=4><div align='center'>[[🔗 Released Code](https://github.com/UBTECH-Robot/Thinker)]
  [[🤗 Checkpoints](https://huggingface.co/...)] [[📄 Tech Report](https://arxiv.org)]</div></font>
