@@ -3,7 +3,7 @@
 <!--  
 [[🤗 Datasets](https://huggingface.co/...)] 
 <font size=4><div align='center'>[[🔗 Released Code](https://github.com/UBTECH-Robot/Thinker)]
- [[🤗 Checkpoints](https://huggingface.co/...)]</div></font>
+ [[🤗 Checkpoints](<font size=4><div align='center'>[[🔗 Released Code](https://github.com/UBTECH-Robot/Thinker)]]</div></font>
  <font size=4><div align='center'>[[📄 Tech Report](https://arxiv.org/abs/2510.01954)]</div></font>
 -->
 
