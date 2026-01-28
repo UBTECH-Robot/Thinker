@@ -1,19 +1,19 @@
-<div align='center'><h1>Thinker: A vision-language foundation model for embodied intelligence</h1></div>
-
-<!-- [[🤗 Datasets](https://huggingface.co/...)] -->
-<p style="text-align: center; font-size: 16px; margin: 8px 0;">
-  [[🔗 Released Code](https://github.com/UBTECH-Robot/Thinker)] &nbsp;&nbsp;
-  [[🤗 Checkpoints](https://huggingface.co/UBTECH-Robotics/Thinker-4B)]
-</p>
-<p style="text-align: center; font-size: 16px; margin: 8px 0;">
-  [[📄 Tech Report](https://arxiv.org/abs/2510.01954)]
-</p>
-
-<font size=4><div align='center'>[[🔗 Released Code](https://github.com/UBTECH-Robot/Thinker)]
- [[🤗 Checkpoints](https://huggingface.co/...)] [[📄 Tech Report](https://arxiv.org)]</div></font>
-
 <div align="center">
-<img src="./assets/logo1.jpg" width="600"/>
+  <h1>Thinker: A vision-language foundation model for embodied intelligence</h1>
+
+  <p>
+    <a href="https://github.com/UBTECH-Robot/Thinker">
+      <img src="https://img.shields.io/badge/Code-GitHub-blue?logo=github" alt="Released Code">
+    </a>
+    <a href="https://huggingface.co/UBTECH-Robotics/Thinker-4B">
+      <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Checkpoints-HuggingFace-orange" alt="Checkpoints">
+    </a>
+    <a href="https://arxiv.org/abs/2510.01954">
+      <img src="https://img.shields.io/badge/Paper-arXiv-red" alt="Tech Report">
+    </a>
+  </p>
+
+  <img src="./assets/logo1.jpg" width="600" style="margin-top: 10px;"/>
 </div>
 
 ---
