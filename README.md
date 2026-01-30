@@ -135,13 +135,10 @@ More evaluation results and scripts will be added soon.
 
 If you find our paper and code useful in your research, please consider giving a star ⭐ and citation 📝 :)
 ```BibTeX
-@misc{pan2026thinkervisionlanguagefoundationmodel,
+@article{UBTECH_Thinker_short_reprort,
       title={Thinker: A vision-language foundation model for embodied intelligence}, 
       author={Baiyu Pan and Daqin Luo and Junpeng Yang and Jiyuan Wang and Yixuan Zhang and Hailin Shi and Jichao Jiao},
-      year={2026},
-      eprint={2601.21199},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2601.21199}, 
+	    journal={https://arxiv.org/abs/2601.21199},
+      year={2025}
 }
 ```
