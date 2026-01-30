@@ -110,7 +110,6 @@ print(output_text)
 ## 🤗 Models
 
 | Models              | Checkpoint                                                                      | Description                              | 
-||||
 | Thinker 4B          | [🤗 UBTECH-Robot/Thinker-4B](https://huggingface.co/UBTECH-Robotics/Thinker-4B) | 4B parameter Instruct version of Thinker | 
 | Thinker 4B thinking | coming soon                                                                     | 4B parameter Thinking version of Thinker |
 
