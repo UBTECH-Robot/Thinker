@@ -133,4 +133,17 @@ More evaluation results and scripts will be added soon.
 ```
 
 ```
+## Citation 
+---
+If you find our paper and code useful in your research, please consider giving a star ⭐ and citation 📝 :)
+
+@misc{pan2026thinkervisionlanguagefoundationmodel,
+      title={Thinker: A vision-language foundation model for embodied intelligence}, 
+      author={Baiyu Pan and Daqin Luo and Junpeng Yang and Jiyuan Wang and Yixuan Zhang and Hailin Shi and Jichao Jiao},
+      year={2026},
+      eprint={2601.21199},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2601.21199}, 
+}
 
