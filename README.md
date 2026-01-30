@@ -130,7 +130,11 @@ More evaluation results and scripts will be added soon.
 
 
 ---
+## License
 
+This project is released under the [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).
+
+---
 ## Citation 
 
 If you find our paper and code useful in your research, please consider giving a star ⭐ and citation 📝 :)
