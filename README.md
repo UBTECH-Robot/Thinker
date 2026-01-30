@@ -16,7 +16,7 @@
   <img src="./assets/logo1.jpg" width="600" style="margin-top: 10px;"/>
 </div>
 
----
+
 ## 🌟 Overview
 
 We are pleased to open-source **Thinker**, a state-of-the-art vision-language foundation model specifically engineered for embodied intelligence.
@@ -40,12 +40,12 @@ Leveraging these capabilities, Thinker sets new records across 7 embodied AI ben
 </div>
 
 
----
+
 ## Update
 
 - **`2026-01-28`**: 🤗 [Thinker-4B](https://huggingface.co/...) model checkpoint has been released in Huggingface.
 
----
+
 ## Quick Start
 
 Clone this repo, and set up the environment with a few commands.
@@ -106,15 +106,15 @@ output_text = processor.batch_decode(
 print(output_text)
 ```
 
----
+
 ## 🤗 Models
 
 | Models              | Checkpoint                                                                      | Description                              | 
-|---------------------|---------------------------------------------------------------------------------|------------------------------------------|
+||||
 | Thinker 4B          | [🤗 UBTECH-Robot/Thinker-4B](https://huggingface.co/UBTECH-Robotics/Thinker-4B) | 4B parameter Instruct version of Thinker | 
 | Thinker 4B thinking | coming soon                                                                     | 4B parameter Thinking version of Thinker |
 
----
+
 
 ## Evaluation
 
@@ -130,12 +130,12 @@ More evaluation results and scripts will be added soon.
 </div>
 
 
----
+
 ## License
 
 This project is released under the [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).
 
----
+
 ## Citation 
 
 If you find our paper and code useful in your research, please consider giving a star ⭐ and citation 📝 :)
