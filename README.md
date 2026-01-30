@@ -112,7 +112,7 @@ print(output_text)
 | Model Name           | Checkpoint                                                                         | Description                                |
 | :------------------- | :--------------------------------------------------------------------------------- | :----------------------------------------- |
 | **Thinker 4B** | [🤗 UBTECH-Robotics/Thinker-4B](https://huggingface.co/UBTECH-Robotics/Thinker-4B) | 4B parameter Instruct version of Thinker   |
-| **Thinker 4B-RL** | ⌛ *Coming soon* | 4B parameter Reasoning (Thinking) version  |
+| **Thinker Thinking 4B** | ⌛ *Coming soon* | 4B parameter Reasoning (Thinking) version  |
 
 ## Evaluation
 
