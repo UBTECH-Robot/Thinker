@@ -8,7 +8,7 @@
     <a href="https://huggingface.co/UBTECH-Robotics/Thinker-4B">
       <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Checkpoints-HuggingFace-orange" alt="Checkpoints">
     </a>
-    <a href="https://arxiv.org/abs/2510.01954">
+    <a href="https://arxiv.org/abs/2601.21199">
       <img src="https://img.shields.io/badge/Paper-arXiv-red" alt="Tech Report">
     </a>
   </p>
