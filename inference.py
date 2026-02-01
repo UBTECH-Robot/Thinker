@@ -213,22 +213,19 @@ if __name__ == "__main__":
 
     # ============general task==========
     prompt = "What is shown in this image?"
-    image = "/data/train_logs/scripts/export/000000039769.jpg"
-    #image = "http://images.cocodataset.org/val2017/000000039769.jpg"
+    image = "http://images.cocodataset.org/val2017/000000039769.jpg"
     predition = model_4b.inference(prompt, image, task="general", plot=True)
     print(f"Prediction:\n{predition}")
 
     # ============2d-point grounding task==========
     prompt = "Please point out the free space between two cats."
-    image = "/data/train_logs/scripts/export/000000039769.jpg"
-    # image = "http://images.cocodataset.org/val2017/000000039769.jpg"
+    image = "http://images.cocodataset.org/val2017/000000039769.jpg"
     predition = model_4b.inference(prompt, image, task="pointing", plot=True)
     print(f"Prediction:\n{predition}")
 
     # ============2d-box grounding task==========
     prompt = "Please detect the cat on the right."
-    image = "/data/train_logs/scripts/export/000000039769.jpg"
-    # image = "http://images.cocodataset.org/val2017/000000039769.jpg"
+    image = "http://images.cocodataset.org/val2017/000000039769.jpg"
     predition = model_4b.inference(prompt, image, task="grounding", plot=True)
     print(f"Prediction:\n{predition}")
 
