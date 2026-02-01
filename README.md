@@ -120,11 +120,13 @@ More evaluation results and scripts will be added soon.
 
 <div align="center">
 <img src="./assets/thinker_performan_2.jpg" width="800"/>
+<p>The performance comparison of Thinker-4B with models below 10B.</p>
 </div>
 
 
 <div align="center">
-<img src="./assets/thinker_performan_1.jpg.jpg" width="800"/>
+<img src="./assets/thinker_performan_1.jpg" width="800"/>
+<p>The performance comparison of Thinker-4B with models above 10B.</p>
 </div>
 
 
