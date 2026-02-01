@@ -43,7 +43,7 @@ Leveraging these capabilities, Thinker sets new records across 7 embodied AI ben
 
 ## Update
 
-- **`2026-01-28`**: 🤗 [Thinker-4B](https://huggingface.co/...) model checkpoint has been released in Huggingface.
+- **`2026-01-28`**: 🤗 [Thinker-4B](https://huggingface.co/UBTECH-Robotics/Thinker-4B) model checkpoint has been released in Huggingface.
 
 
 ## Quick Start
