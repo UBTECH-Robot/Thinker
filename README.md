@@ -119,12 +119,12 @@ print(output_text)
 More evaluation results and scripts will be added soon.
 
 <div align="center">
-<img src="./assets/10b1.jpg" width="1000"/>
+<img src="./assets/thinker_performan_2.jpg" width="800"/>
 </div>
 
 
 <div align="center">
-<img src="./assets/10b2.jpg" width="1000"/>
+<img src="./assets/thinker_performan_1.jpg.jpg" width="800"/>
 </div>
 
 
