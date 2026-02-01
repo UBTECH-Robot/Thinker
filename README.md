@@ -51,13 +51,18 @@ Leveraging these capabilities, Thinker sets new records across 7 embodied AI ben
 Clone this repo, and set up the environment with a few commands.
 
 ```bash
+# The Thinker model requires transformers >= 4.57.0
+pip install "transformers>=4.57.0"
+```
+<!--
+```bash
 git clone https://github.com/UBTECH-Robot/Thinker.git
 cd Thinker
 
 conda create -n Thinker python=3.11
 conda activate Thinker
 pip install -r requirements.txt
-```
+-->
 
 The following contains a code snippet illustrating how to use our Thinker. More details can refer to inference.py.
 
