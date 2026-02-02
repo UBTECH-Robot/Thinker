@@ -121,7 +121,7 @@ print(output_text)
 
 ## Evaluation
 
-More evaluation results and scripts will be added soon.
+We use the flageval and evalscope frameworks for evaluation. More evaluation results and scripts will be added soon.
 
 <div align="center">
 <img src="./assets/thinker_performan_2.jpg" width="800"/>
