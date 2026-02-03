@@ -85,7 +85,7 @@ messages = [
                 "type": "image",
                 "image": "http://images.cocodataset.org/val2017/000000039769.jpg",
             },
-            {"type": "text", "text": "Please point out the free space between two cats."},
+            {"type": "text", "text": "Please describe this image."},
         ],
     }
 ]
