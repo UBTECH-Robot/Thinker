@@ -145,7 +145,7 @@ This project is released under the [Attribution-NonCommercial-ShareAlike 4.0 Int
 
 If you find our paper and code useful in your research, please consider giving a star ⭐ and citation 📝 :)
 ```BibTeX
-@article{UBTECH_Thinker_short_reprort,
+@article{UBTECH_Thinker_short_report,
       title={Thinker: A vision-language foundation model for embodied intelligence}, 
       author={Baiyu Pan and Daqin Luo and Junpeng Yang and Jiyuan Wang and Yixuan Zhang and Hailin Shi and Jichao Jiao},
 	    journal={https://arxiv.org/abs/2601.21199},
